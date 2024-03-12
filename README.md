@@ -1,6 +1,6 @@
 # Asteroids Game
 
-![Short game play of the Asteroids Game](https://java-programming.mooc.fi/6b452348a83d369d70928f8e8a785b9c/asteroids-ready.gif)
+![Short game play of the Asteroids Game](asteroids-ready.gif)
 
 A basic asteroids shooter game built with JavaFX 17 written in Java. 
 
